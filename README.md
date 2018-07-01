@@ -1,5 +1,5 @@
 # NovatoCityWebsite
-Hosted at www.novatocity.com
+Previously hosted at www.novatocity.com [Now defunct]
 
 We developed this website for publicty of NovatoCity and Green initiatives: Team Green, IoT based energy saving solutions, EnergieCorp, etc.
 
